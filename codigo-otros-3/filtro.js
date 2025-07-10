@@ -1,5 +1,5 @@
 // Tenemos un li de productos
-
+//*CAMBIOS EN AGREGAR LA FUNCIÓN LÍNEA 14, EN LA LÍNEA 12 LE QUITÉ .INPUT PORQUE  ESO HACE REFERENCIA A UNA CLASE Y NO A LA ETIQUETA INPUT
 const productos = [
   {nombre: "Zapato negro", tipo: "zapato", color: "negro", img: "./taco-negro.jpg"},
   {nombre: "Zapato azul", tipo: "zapato", color: "azul", img: "./taco-azul.jpg"},
